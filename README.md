@@ -3,7 +3,12 @@
 </p>
 
 <h1 align="center">Hey there! I'm Aitijhya 🐱</h1>
-![gitartwork](gitartwork.svg)
+
+<div align="center">
+  
+  ![gitartwork](gitartwork.svg)
+
+</div>
 
 <h3 align="center">A coder and designer currently pursuing B-Tech in CSE-AIML while exploring web development and web designing.🎀</h3>
 
