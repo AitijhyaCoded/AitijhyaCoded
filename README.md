@@ -85,6 +85,12 @@
 
   </p>
 
+
+  <h4>Database Management System:</h4>
+  <p>
+    <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="SQL" width="60" height="40">
+  </p>
+
   <h4>Tools:</h4>
   <p>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40">
