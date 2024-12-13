@@ -133,3 +133,19 @@
 <br>
 
 ---
+
+## 🎖️ GoogleCloud(24) Badges 
+<div>
+  <img src="https://images.credly.com/size/220x220/images/b7898c75-72ce-4304-b227-0aa7563aaca9/blob" width="100px" height="100px" />
+  <img src="https://images.credly.com/size/680x680/images/3934ff47-3ef9-40cb-82d2-66a40d33886a/image.png" width="100px" height="100px" />
+  <img src="https://images.credly.com/size/220x220/images/79d45afd-9552-447b-96d0-b4c2037f59be/image.png" width="100px" height="100px" />
+  <img src="https://images.credly.com/size/680x680/images/f4037855-1b1d-4338-985f-fec235b152a6/image.png" width="100px" height="100px" />
+  <img src="https://images.credly.com/size/680x680/images/6b0dde4a-f8ab-4042-b828-2ed1a4f82d4d/image.png" width="100px" height="100px" />
+  <img src="https://images.credly.com/size/680x680/images/4b9b3bd9-02b8-4243-8def-893557125497/image.png" width="105px" height="105px" />
+  <img src="https://images.credly.com/size/680x680/images/2f0d66d4-9479-43e5-a101-42cda01123dc/image.png" width="100px" height="100px" />
+  <img src="https://images.credly.com/size/680x680/images/449ee94a-268c-4a6d-9983-0507fbdeaf46/image.png" width="100px" height="100px" />
+  <img src="https://images.credly.com/size/680x680/images/42242faf-e2ec-4c2c-aa57-8c27b190dd83/image.png" width="100px" height="100px" />
+  <img src="https://images.credly.com/size/680x680/images/42326d44-14ff-4eda-b9c5-7d8f12919253/image.png" width="100px" height="100px" />
+  
+</div>
+
