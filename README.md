@@ -6,7 +6,7 @@
 </p>
 
 <div align="center"> <img hight="300" width="500" alt="GIF" align="center" src="https://media1.tenor.com/m/eVegEHxt9goAAAAC/study-work.gif"></div>
-<h3 align="center">I'm a passionate developer and designer exploring AI, Machine Learning, Web Development and UI/UX Designing 🚀</h3>
+<h3 align="center">A coder and designer currently pursuing B-Tech in CSE-AIML while exploring web development and web designing.🎀</h3>
 
 ---
 
@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Next.js, React.js, NLP.** 
 - 💬 Ask me about **DSA, Python, SQL, C and Web Development.**
-- 🚀 Loves coding, painting and brainstorming creative projects
+- 🚀 Loves coding, painting and brainstorming creative projects.
 - 📫 How to reach me:  
  <br>
 <div>
