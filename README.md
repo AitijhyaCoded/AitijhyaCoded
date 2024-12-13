@@ -1,11 +1,11 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AitijhyaCoded&label=Profile%20views&color=D22B2B&style=flat" alt="AitijhyaCoded" />
+</p>
+
 <h1 align="center">Hey there! I'm Aitijhya 🐱</h1>
 ![gitartwork](gitartwork.svg)
 
 <h3 align="center">A coder and designer currently pursuing B-Tech in CSE-AIML while exploring web development and web designing.🎀</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AitijhyaCoded&label=Profile%20views&color=D22B2B&style=flat" alt="AitijhyaCoded" />
-</p>
 
 <div align="center"> <img hight="300" width="500" alt="GIF" align="center" src="https://media1.tenor.com/m/eVegEHxt9goAAAAC/study-work.gif"></div>
 
