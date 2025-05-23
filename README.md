@@ -111,8 +111,6 @@
   </p>
 
   
-
-
 </div>
 
 ---
@@ -140,6 +138,18 @@
 
 ---
 
+## 📈 Github Graph
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AitijhyaCoded&bg_color=02011e&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=AitijhyaCoded&theme=merko&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
 ## 🎖️ GoogleCloud(24) Badges 
 <div>
   <img src="https://images.credly.com/size/220x220/images/b7898c75-72ce-4304-b227-0aa7563aaca9/blob" width="100px" height="100px" />
@@ -156,4 +166,3 @@
 </div>
 
 ---
-
