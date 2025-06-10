@@ -2,7 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=AitijhyaCoded&label=Profile%20views&color=D22B2B&style=flat" alt="AitijhyaCoded" />
 </p>
 
-
 <h1 align="center">Hey there! I'm Aitijhya 🐱</h1>
 
 <div align="center">
