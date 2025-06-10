@@ -11,7 +11,7 @@
 
 </div>
 
-<h3 align="center">A coder and designer currently pursuing B-Tech in CSE-AIML while exploring web development and web designing.🎀</h3>
+<h3 align="center">A coder and designer currently pursuing B-Tech in CSE-AIML while exploring web development and web designing. 🎀</h3>
 
 <div align="center"> <img hight="300" width="500" alt="GIF" align="center" src="https://media1.tenor.com/m/eVegEHxt9goAAAAC/study-work.gif"></div>
 
