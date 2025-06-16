@@ -24,7 +24,6 @@
 - 💬 Ask me about **DSA, Python, SQL, C and Web Development.**
 - 🚀 Loves coding, painting and brainstorming creative projects.
 - 📫 How to reach me:
-- 
  <br>
 <div>
 <a href="https://www.linkedin.com/in/aitijhya-roy-12914a326/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
